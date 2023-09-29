@@ -1,0 +1,15 @@
+C:\Users\jacin\PROGRAMACION 2\semana9(act2)ejercicio2\semana9(act2)ejercicio2\bin\Debug\net6.0\semana9(act2)ejercicio2.exe
+C:\Users\jacin\PROGRAMACION 2\semana9(act2)ejercicio2\semana9(act2)ejercicio2\bin\Debug\net6.0\semana9(act2)ejercicio2.deps.json
+C:\Users\jacin\PROGRAMACION 2\semana9(act2)ejercicio2\semana9(act2)ejercicio2\bin\Debug\net6.0\semana9(act2)ejercicio2.runtimeconfig.json
+C:\Users\jacin\PROGRAMACION 2\semana9(act2)ejercicio2\semana9(act2)ejercicio2\bin\Debug\net6.0\semana9(act2)ejercicio2.dll
+C:\Users\jacin\PROGRAMACION 2\semana9(act2)ejercicio2\semana9(act2)ejercicio2\bin\Debug\net6.0\semana9(act2)ejercicio2.pdb
+C:\Users\jacin\PROGRAMACION 2\semana9(act2)ejercicio2\semana9(act2)ejercicio2\obj\Debug\net6.0\semana9(act2)ejercicio2.csproj.AssemblyReference.cache
+C:\Users\jacin\PROGRAMACION 2\semana9(act2)ejercicio2\semana9(act2)ejercicio2\obj\Debug\net6.0\semana9(act2)ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacin\PROGRAMACION 2\semana9(act2)ejercicio2\semana9(act2)ejercicio2\obj\Debug\net6.0\semana9(act2)ejercicio2.AssemblyInfoInputs.cache
+C:\Users\jacin\PROGRAMACION 2\semana9(act2)ejercicio2\semana9(act2)ejercicio2\obj\Debug\net6.0\semana9(act2)ejercicio2.AssemblyInfo.cs
+C:\Users\jacin\PROGRAMACION 2\semana9(act2)ejercicio2\semana9(act2)ejercicio2\obj\Debug\net6.0\semana9(act2)ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\jacin\PROGRAMACION 2\semana9(act2)ejercicio2\semana9(act2)ejercicio2\obj\Debug\net6.0\semana9(act2)ejercicio2.dll
+C:\Users\jacin\PROGRAMACION 2\semana9(act2)ejercicio2\semana9(act2)ejercicio2\obj\Debug\net6.0\refint\semana9(act2)ejercicio2.dll
+C:\Users\jacin\PROGRAMACION 2\semana9(act2)ejercicio2\semana9(act2)ejercicio2\obj\Debug\net6.0\semana9(act2)ejercicio2.pdb
+C:\Users\jacin\PROGRAMACION 2\semana9(act2)ejercicio2\semana9(act2)ejercicio2\obj\Debug\net6.0\semana9(act2)ejercicio2.genruntimeconfig.cache
+C:\Users\jacin\PROGRAMACION 2\semana9(act2)ejercicio2\semana9(act2)ejercicio2\obj\Debug\net6.0\ref\semana9(act2)ejercicio2.dll
